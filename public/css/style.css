@@ -1,0 +1,17 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+}
+nav a{
+    padding: 0.5 rem;
+}
+
+li{
+    list-style-type: none;
+    border: 1px;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: aliceblue;
+}
+li:hover{
+    background: #7f50c1;
+}
